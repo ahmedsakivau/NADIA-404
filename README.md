@@ -4,4 +4,4 @@ git clone https://github.com/ahmedsakivau/NADIA-404
 
 cd NADIA-404
 
-python MRM.py
+python FB-KING-1.py
